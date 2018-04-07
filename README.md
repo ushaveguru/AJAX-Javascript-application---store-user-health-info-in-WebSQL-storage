@@ -2,7 +2,7 @@
 
 AJAX application to store the entries from form data of patient details and health info in websql storage.
 
-health.html - patients details
+health.html - patients details , capture images using webcam
 demographics.html - patient details
 
 Retrieve the values stored in database in Reports.html page.
